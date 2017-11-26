@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "785515367540",
+    "firebase_url": "https://androidproject-dbc80.firebaseio.com",
+    "project_id": "androidproject-dbc80",
+    "storage_bucket": "androidproject-dbc80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785515367540:android:a435f255f0dead98",
+        "android_client_info": {
+          "package_name": "com.example.bhimsen.androidproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785515367540-iodok6b2b0hbgbq9d7s6cu1li6vlne6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2YK5SZU-mpiG5qlllQMW39S31tTF_rNU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
